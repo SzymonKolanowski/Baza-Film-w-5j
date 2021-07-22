@@ -1,0 +1,128 @@
+{
+  "Movies": [
+    {
+      "Id": 1,
+      "Title": "Zadzwoń do Saula",
+      "Score": 8,
+      "YearofProduction": 2016,
+      "RealeseDate": "2021-06-13T00:00:00",
+      "ActorsIds": null
+    },
+    {
+      "Id": 2,
+      "Title": "M jak Miłość",
+      "Score": 4,
+      "YearofProduction": 2000,
+      "RealeseDate": "2007-09-12T00:00:00",
+      "ActorsIds": [
+        1
+      ]
+    },
+    {
+      "Id": 3,
+      "Title": "Pierwsza Miłość",
+      "Score": 5,
+      "YearofProduction": 2004,
+      "RealeseDate": "2007-09-12T00:00:00",
+      "ActorsIds": [
+        5
+      ]
+    },
+    {
+      "Id": 4,
+      "Title": "Ranczo",
+      "Score": 6,
+      "YearofProduction": 2006,
+      "RealeseDate": "2008-06-23T00:00:00",
+      "ActorsIds": null
+    },
+    {
+      "Id": 5,
+      "Title": "Gwiezdne Wojny - Zemsta Sithów",
+      "Score": 8,
+      "YearofProduction": 2005,
+      "RealeseDate": "2005-07-30T00:00:00",
+      "ActorsIds": [
+        6
+      ]
+    },
+    {
+      "Id": 6,
+      "Title": "Inflirtacja",
+      "Score": 8,
+      "YearofProduction": 2006,
+      "RealeseDate": "2008-08-25T00:00:00",
+      "ActorsIds": []
+    },
+    {
+      "Id": 7,
+      "Title": "Forrest Gump",
+      "Score": 5,
+      "YearofProduction": 1995,
+      "RealeseDate": "2005-07-21T00:00:00",
+      "ActorsIds": [
+        2
+      ]
+    },
+    {
+      "Id": 8,
+      "Title": "Dzień Świra",
+      "Score": 8,
+      "YearofProduction": 2002,
+      "RealeseDate": "2003-09-12T00:00:00",
+      "ActorsIds": null
+    }
+  ],
+  "Actors": [
+    {
+      "Id": 1,
+      "NameandSurname": "Marcin Mroczek",
+      "Yearofbirth": 1982,
+      "MoviesIds": []
+    },
+    {
+      "Id": 2,
+      "NameandSurname": "Tom Hanks",
+      "Yearofbirth": 1955,
+      "MoviesIds": []
+    },
+    {
+      "Id": 3,
+      "NameandSurname": "Leonardo di Caprio",
+      "Yearofbirth": 1974,
+      "MoviesIds": [
+        6
+      ]
+    },
+    {
+      "Id": 4,
+      "NameandSurname": "Cezary Żak",
+      "Yearofbirth": 1961,
+      "MoviesIds": [
+        4
+      ]
+    },
+    {
+      "Id": 5,
+      "NameandSurname": "Aneta Zając",
+      "Yearofbirth": 1981,
+      "MoviesIds": [
+        3
+      ]
+    },
+    {
+      "Id": 6,
+      "NameandSurname": "Hayden Christiansen",
+      "Yearofbirth": 1981,
+      "MoviesIds": [
+        5
+      ]
+    },
+    {
+      "Id": 7,
+      "NameandSurname": "Marek Konrad",
+      "Yearofbirth": 1954,
+      "MoviesIds": null
+    }
+  ]
+}
